@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I’m a software developer with experience in developing both front-end and back-end systems.
+I worked software house and LCW and now I work in a startup. I have been involved in many different projects.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+MSc Computer Engineering Beykent University, Istanbul, Turkey
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:ergin366@hotmail.com)
