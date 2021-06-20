@@ -11,4 +11,4 @@ MSc Computer Engineering Beykent University, Istanbul, Turkey
 
 ### Contact me
 
-[email@domain.com](mailto:ergin366@hotmail.com)
+[ergin366@hotmail.com](mailto:ergin366@hotmail.com)
